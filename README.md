@@ -50,7 +50,7 @@ Admin will handle all reports.
 # RESTFUL APIs
 ||Operation|API|Description|
 |:---|---|---|---|
-|[x]|GET|api/accidents/numbersByState|Select numbers of accidents per state|
+|-[]|GET|api/accidents/numbersByState|Select numbers of accidents per state|
 |[]|GET|api/accidents/numbersByCounty/:state|Select numbers of accidents per county by state|
 |[]|GET|api/accidents/numbersByRoad/:state/:city/:road|Searching by road, city and state|
 |[]|GET|api/accidents/numbersByHumidity|Select numbers of accidents by humidity|
